@@ -1,0 +1,7 @@
+org/example/NestedClassExample.java
+ org.example.NestedClassExample
+ org.example.NestedClassExample$1
+ org.example.NestedClassExample$1LocalClass
+ org.example.NestedClassExample$AnonymousClass
+ org.example.NestedClassExample$NonStaticMemberClass
+ org.example.NestedClassExample$StaticMemberClass
